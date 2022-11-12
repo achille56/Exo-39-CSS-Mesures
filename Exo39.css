@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container ,.container2 ,.container3 ,.container4 ,.container5{
+    background: darkcyan;
+    border: 2px dashed yellow;
+    width: 20rem;
+    height: 20rem;
+}
+
+p{
+    text-align: center;
+    padding: 4rem;
+}
+
+body{
+    font-size: 10px;
+    background: white;
+}
+
+div{
+    font-size: 1.2em;
+}
